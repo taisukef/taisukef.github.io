@@ -6,8 +6,8 @@
 
 ## 写真
 
-- https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg
-- https://fukuno.jig.jp/profile/fukuno-201803-2.jpg
+- [https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
+- [https://fukuno.jig.jp/profile/fukuno-201803-2.jpg](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
 
 ## 生年月日
 
@@ -24,6 +24,9 @@
 内閣官房IT室 オープンデータ伝道師
 総務省 地域情報化アドバイザー
 鯖江商工会議所 常議員 DX委員会委員長
+PCN 共同創始者
+福井県情報システム工業会 理事 DX推進委員会 行政手続き委員長
+神山まるごと設立準備委員会 技術教育統括ディレクター
 
 ## 略歴
 
@@ -33,12 +36,17 @@
 2001年 有限会社ユーエヌアイ研究所創業
 2003年 株式会社jig.jp創業
 
-## プロフィール
+## プロフィール(200文字)
 
-1978年石川県生まれ。小学校3年でパソコン(MSX)に出会い、プログラミングの世界にはまる。
-中学卒業後、福井高専電子情報工学科へ進学、2年生時に「全国高等専門学校プログラミングコンテスト」で準優勝。
-2000年に高専時代の先輩と共に有限会社シャフトを創業、取締役に就任。
-翌年、有限会社UNI研究所を創業。2003年に株式会社jig.jpを創業、2004年jigブラウザを開発、現在同社の取締役会長。
-政府CIO任命、オープンデータ伝道師。総務省地域情報化アドバイザー。福井高専未来戦略アドバイザー。
-神山まるごと設立準備委員会技術教育統括ディレクター。鯖江商工会議所常議員。
-「すべてのこどもたちにプログラミングを」PCN共同創始者、こどもパソコンIchigoJam開発者。
+小学校3年時にプログラミングにはまり、福井高専卒業後、3社目の創業、株式会社jig.jpにてjigブラウザを開発。
+鯖江市にオープンデータを提案し、日本初のオープンデータ都市誕生、毎日何か創って発表する「一日一創」を始める。
+「すべてのこどもたちにプログラミングを」PCN共同創始者で、こどもパソコンIchigoJam開発者。
+子供から大人まで幅広く、楽しいプログラミングとデータ活用術を伝えている。
+
+## リンク
+
+- [ブログ](https://fukuno.jig.jp/)
+- [Twitter](https://twitter.com/taisukef)
+- [Facebook](https://facebook.com/taisuke.fukuno)
+- [GitHub](https://github.com/taisukef)
+
