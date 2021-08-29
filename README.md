@@ -45,6 +45,18 @@
 - [Facebook](https://facebook.com/taisuke.fukuno)
 - [GitHub](https://github.com/taisukef)
 
+## JSON-LD
+
+```jsonld
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "福野泰介",
+  "url": "https://twitter.com/taisukef/",
+  "image": "https://fukuno.jig.jp/profile/fukuno-201803-2.jpg"
+}
+```
+
 ## ライセンス
 
 - [CC BY](https://creativecommons.org/licenses/by/4.0/deed.ja) 福野泰介
