@@ -7,6 +7,10 @@
 - [https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
 - [https://fukuno.jig.jp/profile/fukuno-201803-2.jpg](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
 
+## 3Dモデル
+
+- [vr-fukuno](https://github.com/taisukef/vr-fukuno/)
+
 ## 生年月日
 
 1978-11-08
