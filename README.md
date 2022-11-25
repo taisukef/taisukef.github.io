@@ -65,5 +65,5 @@
 
 ## ライセンス
 
-- [CC BY](https://creativecommons.org/licenses/by/4.0/deed.ja) 福野泰介
+- [opendata license](https://code4fukui.github.io/opendata-license/) by [福野泰介](https://fukuno.jig.jp/)
 - 本ページのデータは、二次利用、編集して利用可能なオープンデータです。出典元をどこかに記載し自由にお使いください。
