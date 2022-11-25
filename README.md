@@ -4,8 +4,8 @@
 
 ## 写真
 
-- [https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
-- [https://fukuno.jig.jp/profile/fukuno-201803-2.jpg](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
+- [アイコン](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
+- [プロフィール写真](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
 
 ## 3Dモデル
 
@@ -61,7 +61,7 @@
   "@context": "http://schema.org",
   "@type": "Person",
   "name": "福野泰介",
-  "url": "https://twitter.com/taisukef/",
+  "url": "https://fukuno.jig.jp/",
   "image": "https://fukuno.jig.jp/profile/fukuno-201803-2.jpg"
 }
 ```
