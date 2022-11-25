@@ -29,8 +29,10 @@
 - PCN 共同創始者
 - 福井県情報システム工業会 理事 渉外部会長 兼 DX推進委員長
 - 福井高専 未来戦略アドバイザー
-- 神山まるごと設立準備委員会 技術教育統括ディレクター
+- 神山まるごと高専 技術教育統括ディレクター
 - 福井県越前市 CDOアドバイザー
+- Code for Japan フェロー
+- Code for FUKUI 代表
 
 ## 略歴
 
@@ -49,6 +51,7 @@
 - [ブログ](https://fukuno.jig.jp/)
 - [Twitter](https://twitter.com/taisukef)
 - [Facebook](https://facebook.com/taisuke.fukuno)
+- [Instagram](https://www.instagram.com/taisukef/)
 - [GitHub](https://github.com/taisukef)
 
 ## JSON-LD
