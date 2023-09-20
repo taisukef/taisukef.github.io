@@ -60,7 +60,7 @@
 ## リンク
 
 - [ブログ](https://fukuno.jig.jp/)
-- [Twitter](https://twitter.com/taisukef)
+- [X](https://x.com/taisukef)
 - [Facebook](https://facebook.com/taisuke.fukuno)
 - [Instagram](https://www.instagram.com/taisukef/)
 - [GitHub](https://github.com/taisukef)
