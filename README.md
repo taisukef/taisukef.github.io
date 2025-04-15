@@ -7,9 +7,10 @@
 - [アイコン](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
 - [プロフィール写真](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
 
-## 3Dモデル
+## 各種データ
 
-- [vr-fukuno](https://github.com/taisukef/vr-fukuno/)
+- 3Dモデル [vr-fukuno](https://github.com/taisukef/vr-fukuno/)
+- healthcheckresult [QRCSV](healthcheckresult_20250414.html)
 
 ## 生年月日
 
