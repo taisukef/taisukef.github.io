@@ -1,23 +1,26 @@
-## 名前
+## 名前 / name
 
-福野 泰介 (ふくの たいすけ)
+福野 泰介 (ふくの たいすけ) / FUKUNO Taisuke
 
-## 写真
+## 写真 / photo
 
-- [アイコン](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
-- [プロフィール写真](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
+- [アイコン / icon](https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg)
+- [プロフィール写真 / profile photo](https://fukuno.jig.jp/profile/fukuno-201803-2.jpg)
 
-## 各種データ
+## 各種データ / data
 
 - 3Dモデル [vr-fukuno](https://github.com/taisukef/vr-fukuno/)
 - healthcheckresult [QRCSV](healthcheckresult_20250414.html)
 
-## 生年月日
+## 生年月日 / birthday
 
 1978-11-08
 
-## 役職
+## 役職 / titles
 
+- 株式会社jig.jp 取締役 創業者 （ジグジェイピー） / Founder, jig.jp co., ltd.
+- 神山まるごと高専 技術教育統括ディレクター 兼 非常勤教員 /  Director of Technology Education, Kamiyama Marugoto College
+- 株式会社B Inc. 取締役 （ビーインク）
 - 公益財団法人 IchigoJam財団 代表理事
 - デジタル庁 オープンデータ伝道師
 - 総務省 地域情報化アドバイザー
@@ -27,14 +30,11 @@
 - PCN 共同創始者
 - 福井県情報システム工業会 副会長
 - 福井県IT産業団体連合会 理事
-- 神山まるごと高専 技術教育統括ディレクター 兼 非常勤教員
 - 特定非営利活動法人高専プロコン交流育成協会 理事
 - NPO法人たんなん夢レディオ 理事
 - Code for FUKUI 代表
 - Code for Sabae 代表
 - Code for Japan フェロー
-- 株式会社jig.jp 取締役 創業者 （ジグジェイピー）
-- 株式会社B Inc. 取締役 （ビーインク）
 
 ## 賞
 
